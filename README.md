@@ -4,6 +4,8 @@
 - 💻 I'm looking for my first job as a programmer
 - 😄 Pronouns: she/her
 
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true)
+
 ## Technologies I use in my day
 
 <div style="display: inline_block">
