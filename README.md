@@ -1,7 +1,7 @@
   ## Hello, I’m @Gabriella-Fernandes
   
-- 👀 I’m currently learning HTML, CSS and JavaScript
-- 💻 I'm looking for my first job as a programmer
+- 👀 I’m a programmer HTML, CSS and JavaScript
+- 💻 Furthermore, I develop websites in wordpress
 - 😄 Pronouns: she/her
 
 ## Technologies I use in my day
